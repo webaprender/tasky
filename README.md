@@ -1,24 +1,7 @@
 # README
+Web App for create task in Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version: 3.0.2
 
-Things you may want to cover:
+* Ruby version: 6.1.4.1
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
